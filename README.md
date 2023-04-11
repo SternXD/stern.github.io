@@ -1,2 +1,3 @@
-# XboxApps
-Website containing access to Xbox homebrew applications such as RetroArch, PPSPP and more.
+These are apps for developer mode
+
+I forked this repo from ReveriePass to add more to it when I need to
